@@ -19,7 +19,7 @@ Microbial Contributions to Carbon, Nitrogen, and Greenhouse Gas Cycling in Fresh
 
 (https://www.proquest.com/intermediateredirectforezproxy)
 
-  *Images in the Thesis folder only included if not another folder, those labelled with an "x" have components or data currently under review
+  *Images in the Thesis folder only included if not another folder, those labelled with a "x" have components or data currently under review
 
 
 #
@@ -28,8 +28,8 @@ Metagenomic Approaches Unearth Methanotroph Phylogenetic and Metabolic Diversity
 
 (https://www.caister.com/cimb/v/v33/57.pdf)
 
-  -data and code originally published here: https://github.com/TheWrightonLab/Methanotroph_rpS3Analyses_SmithWrighton2018
-
+ -data and code originally published here: https://github.com/TheWrightonLab/Methanotroph_rpS3Analyses_SmithWrighton2018
+ *Images with an "u" have been slighlty modified to match the version in my thesis
 
 
 
