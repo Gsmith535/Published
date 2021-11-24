@@ -46,43 +46,43 @@ Contig abundances were calculated by normalizing paired read counts by gene leng
 
 **Figure 2. Distribution of United States watersheds.** A Mercator projection of the United States (dark grey) overlaid with rivers and the watershed networks (light blue) to display the extent and spatial patterns of the exposed and subsurface freshwater terrestrial-aquatic interfaces.
 
-**Thesis fig 17**
+**Thesis fig 17x**
 
 ![Thesis fig 17](thesis_2020/thesis17x.png)
 
 **Figure 17. Experimental overview of hyporheic zone (HZ) sampling in the riparian zone of the Columbia River.** (A) shows the geographic location in Washington (USA) of the sampling site. (B) is an aerial view of the site to show the two transects and difference in vegetation between them. (C) is a schematic drawing of the sampling design in which green indicates the vegetated (“Veg.”) transect and brown indicates the non-vegetated (“Non-Veg.”) transects, and the sediment profiles were sub-sectioned into 10 cm intervals. (D) outlines the microbial community (“Comm.”) and porewater chemistry (“Chem.”) data collected for these analyses. The datasets included metagenomes (“MetaG”), metaproteomes (“MetaP”), and metabolomes (“MetaB”), as well as measurements of total carbon (“Tot. C”), total nitrogen (“Tot. N”), and ammonium (“NH4+”).
 
-**Thesis fig 18**
+**Thesis fig 18x**
 
 ![Thesis fig 18](thesis_2020/thesis18x.png)
 
 **Figure 18. Butterfly plot of the detection frequency of organic metabolites identified using 1H Nuclear Magnetic Resonance (NMR)**. Over 29 metabolites were detected above minimum concentration thresholds (1 μM prior to correction) in at least one sample. The number of samples each of these metabolites were detected in is split between the non-vegetated and vegetated transects. Within substrate categories, the metabolites are in increasing rank order by number of total samples from top to bottom.
 
-**Thesis fig 19**
+**Thesis fig 19x**
 
 ![Thesis fig 19](thesis_2020/thesis19x.png)
 
 **Figure 19. Sediment porewater chemistry profiles at the two transects.** Mean and standard errors for ammonium (A), resazurin as a proxy for aerobic respiration (B), total nitrogen (C), and total carbon (D) are shown over the 10 cm increments and aggregated between the two transects. Previous biochemical analysis identified “low activity” and “hotspots” of microbial activity based on the resazurin reduction assay.
 
-**Thesis fig 20**
+**Thesis fig 20x**
 
 ![Thesis fig 20](thesis_2020/thesis20x.png)
 
 **Figure 20. Metagenome-Assembled Genome (MAG) phylogenetic distribution and activity in HZ sediments.** (A) Count of recovered MAGs (55 total) colored by their phylum and stacked according to the first empty position within the taxonomic string provided by the Genome Taxonomy Database toolkit (GTDB) as a proxy for genomic novelty 145. (B) Mean relative abundance and standard error of peptide recruitment to each MAG, colored by phylum. (C) Balloon chart of mean peptide relative abundances for each MAG, grouped and colored by phylum, at the 10 cm sediment profile intervals. For all sections, the colors of each phylum match the legend inset into (B).
 
-**Thesis fig 22**
+**Thesis fig 22x**
 
 ![Thesis fig 22](thesis_2020/thesis22x.png)
 
 **Figure 22. Summary of shared metaproteomic content between transects.** Euler diagram of the proportional to the number of total proteins recruiting peptides in each transect, and the overlap represents the proportion of these proteins recruiting peptides in both transects. The proportion of shared proteins recruiting peptides between depths (0-30 cm and 40-60 cm) was similar to the shared content between the transects. For this analysis, only proteins recruiting 2 or more total peptides were included (n=898) in order to allow for recruitment of at least 1 peptide for a given protein to both transects or both depths and reduce false positives.
 
-**Thesis fig 26**
+**Thesis fig 26x**
 
 ![Thesis fig 26](thesis_2020/thesis26x.png)
 
 **Figure 26. Nitrate reducing repertoire of HZ sediment MAGs.** Maximum likelihood phylogeny of dimethyl sulfoxide family reductases (Uniprot PF00384), reconstructed using FastTree with default parameters on an alignment of 4,062 sequences and 8,313 residues trimmed to remove end gaps generated using MAFFT. Sequences recovered from MAGs assigned as periplasmic nitrate reductase (_nap_), respiratory nitrate reductase (_nar_), and nitrite oxidoreductase (_nxr_) are indicated at their tips. The _nxr_-like nar group includes sequences that share high sequence homology with nxr but current evidence suggest they perform the same biochemical reactions as _nar_.
 
-**Thesis fig 27**
+**Thesis fig 27x**
 
 ![Thesis fig 27](thesis_2020/thesis27x.png)
 
@@ -111,7 +111,7 @@ Contig abundances were calculated by normalizing paired read counts by gene leng
  
  *Images with an "u" have been slighlty modified to match the version in my thesis
 
-**CIMB fig 3**
+**CIMB fig 3u**
 
 ![CIMB fig 3](cimb_2019/cmib3u.png)
 
@@ -123,11 +123,11 @@ Contig abundances were calculated by normalizing paired read counts by gene leng
 
 **Figure 3.4** Phylogenetic composition of rpS3 genes recovered in putative methanotrophic MetagenomeAssembled Genomes (MAGs). Distribution of MAGs at the genus level, if known, among the major clades of methanotrophs and grouped by family according to SILVA (SSU refNR 132) and the Genome Taxonomy DataBase (GTDB). Yellow stars indicate the lack of axenic, i.e. pure, cultures of specifc methanotrophic genera (Proteobacteria and Verrucomicrobia) and classes (Methylomirabilota and Methanomicrobia).
 
-**CIMB fig 5**
+**CIMB fig 5u**
 
 ![CIMB fig 5](cimb_2019/cmib5u.png)
-**
-Figure 3.5** Geographic distribution of methanotrophs detected in metagenomic and metatranscriptomic datasets across the globe. Each point represents one of 327 unique BioProjects associated with a metagenome containing a methanotroph rpS3 gene or a putative methanotrophic Metagenome-Assembled Genome (MAG). Phylogenetic afliation of rpS3 genes not in MAGs were assigned to the class of the most similar reference sequence determined by BLASTp and confrmed by topological coherence with reference genes. The colours indicate the phylogenetic afliation of the rpS3 gene, and the size of the point represents the number of recovered sequences per unique BioProject. Sixteen MAGs lacked identifable location information.
+
+**Figure 3.5** Geographic distribution of methanotrophs detected in metagenomic and metatranscriptomic datasets across the globe. Each point represents one of 327 unique BioProjects associated with a metagenome containing a methanotroph rpS3 gene or a putative methanotrophic Metagenome-Assembled Genome (MAG). Phylogenetic afliation of rpS3 genes not in MAGs were assigned to the class of the most similar reference sequence determined by BLASTp and confrmed by topological coherence with reference genes. The colours indicate the phylogenetic afliation of the rpS3 gene, and the size of the point represents the number of recovered sequences per unique BioProject. Sixteen MAGs lacked identifable location information.
 
 #
 #
